@@ -19,7 +19,13 @@
     <string name="switch_bar_on">开</string>
     <string name="switch_bar_off">关</string>
     <string name="device_settings_app_name">高级设置</string>
-    <string name="screen_gestures_panel_title">手势</string>
+    <string name="screen_gestures_panel_title">MOTO操作</string>
+    <string name="screen_gestures_panel_summary">移植LineageActions实现MOTO手势</string>
+    <string name="alarm_action_none">禁用</string>
+    <string name="alarm_action_dismiss">取消闹钟</string>
+    <string name="alarm_action_snooze">暂停闹钟</string>
+    <string name="wave_alarm_title">挥手静音闹钟</string>
+    <string name="wave_alarm_summary">闹钟响起时用手挥过屏幕以静音</string>
     <string name="touchscreen_gesture_extras">附加功能</string>
     <string name="touchscreen_gesture_haptic_feedback">触觉反馈</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">检测到一个触摸屏手势时振动</string>

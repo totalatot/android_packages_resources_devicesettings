@@ -20,6 +20,13 @@
     <string name="switch_bar_off">關</string>
     <string name="device_settings_app_name">進階設定</string>
     <string name="screen_gestures_panel_title">手勢</string>
+    <string name="screen_gestures_panel_title">MOTO手勢</string>
+    <string name="screen_gestures_panel_summary">移植LineageActions實現MOTO手勢</string>
+    <string name="alarm_action_none">停用</string>
+    <string name="alarm_action_dismiss">取消鬧鐘</string>
+    <string name="alarm_action_snooze">暫停鬧鐘</string>
+    <string name="wave_alarm_title">揮手靜音鬧鐘</string>
+    <string name="wave_alarm_summary">在螢幕前揮手即可靜音鬧鐘</string>
     <string name="touchscreen_gesture_extras">附加功能</string>
     <string name="touchscreen_gesture_haptic_feedback">觸控震動</string>
     <string name="touchscreen_gesture_haptic_feedback_summary">檢測到觸控螢幕手勢時震動</string>

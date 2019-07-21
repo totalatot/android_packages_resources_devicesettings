@@ -29,7 +29,17 @@
     <string name="device_settings_app_name">Advanced settings</string>
 
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">Gestures</string>
+    <string name="screen_gestures_panel_title">MOTO Actions</string>
+    <string name="screen_gestures_panel_summary">From LineageActions for more gesture features</string>
+
+    <!-- Alarm Action toggles -->
+    <string name="alarm_action_none">Disable</string>
+    <string name="alarm_action_dismiss">Dismiss Alarm</string>
+    <string name="alarm_action_snooze">Snooze Alarm</string>
+
+    <!-- Wave Alarm gesture -->
+    <string name="wave_alarm_title">Wave to silence alarm</string>
+    <string name="wave_alarm_summary">Silence ringing alarm by waving your hand across the screen</string>
 
     <!-- Touchscreen gesture haptic feedback -->
     <string name="touchscreen_gesture_extras">Extras</string>
