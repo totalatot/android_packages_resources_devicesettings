@@ -19,7 +19,6 @@
     <string name="switch_bar_on">開</string>
     <string name="switch_bar_off">關</string>
     <string name="device_settings_app_name">進階設定</string>
-    <string name="screen_gestures_panel_title">手勢</string>
     <string name="screen_gestures_panel_title">MOTO手勢</string>
     <string name="screen_gestures_panel_summary">移植LineageActions實現MOTO手勢</string>
     <string name="alarm_action_none">停用</string>
